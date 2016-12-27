@@ -20,4 +20,4 @@ Logic Programming. Used Prolog.
 Functional Programming. Used lisp.
 
 
-Nead to add Qn 1 in Assignment 3.
+Need to add Qn 1 in Assignment 3.
